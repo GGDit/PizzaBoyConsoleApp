@@ -59,6 +59,8 @@ namespace PizzaBoyConsoleApp
                 }
             }
 
+            output = output + "D";
+
             return output;
         }
 
