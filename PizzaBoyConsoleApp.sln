@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaBoyConsoleApp", "PizzaBoyConsoleApp\PizzaBoyConsoleApp.csproj", "{6D80C00B-E8D6-44BD-8468-0352728238A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Navigation", "Navigation\Navigation.csproj", "{E2F65AFC-2996-4AC4-BE7B-542F13A44B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{41EA3AC3-9210-488C-818D-F9933441486C}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D80C00B-E8D6-44BD-8468-0352728238A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D80C00B-E8D6-44BD-8468-0352728238A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D80C00B-E8D6-44BD-8468-0352728238A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D80C00B-E8D6-44BD-8468-0352728238A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F65AFC-2996-4AC4-BE7B-542F13A44B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F65AFC-2996-4AC4-BE7B-542F13A44B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F65AFC-2996-4AC4-BE7B-542F13A44B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F65AFC-2996-4AC4-BE7B-542F13A44B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765AFDBB-7245-4457-BA16-DF513D6CA914}
+	EndGlobalSection
+EndGlobal
